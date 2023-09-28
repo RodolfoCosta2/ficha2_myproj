@@ -1,0 +1,25 @@
+[33mcommit 8e9182b4906c0bb7575800bca8e7c1f57775ae18[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: rodolfocosta <rodolfo.costamoleiro@gmail.com>
+Date:   Thu Sep 28 11:53:25 2023 +0100
+
+    Este commit tem o objetivo de atualizar o file3.txt
+    
+    Este exercicio está englobado no âmbito da ficha 1 de Git
+
+[33mcommit 6baa2a17083520f5097ec1c366ead353e484052f[m
+Author: rodolfocosta <rodolfo.costamoleiro@gmail.com>
+Date:   Thu Sep 28 11:41:47 2023 +0100
+
+    Fiz alterações no file1.txt
+
+[33mcommit 352f7cb58b388760b59029d63d198ee3a0a0de53[m
+Author: rodolfocosta <rodolfo.costamoleiro@gmail.com>
+Date:   Thu Sep 28 11:36:16 2023 +0100
+
+    Primeiro Versionamento
+
+[33mcommit 2bd090480073ac4f0ecd2ccba954939530faf4a0[m
+Author: rodolfocosta <rodolfo.costamoleiro@gmail.com>
+Date:   Thu Sep 28 11:35:02 2023 +0100
+
+    Primeiro visionamento
