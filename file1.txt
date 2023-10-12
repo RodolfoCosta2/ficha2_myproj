@@ -1,6 +1,5 @@
 Eliminei a primeira linha e escrevi esta!!
 Alterações efetuadas no branch NovaFeature
-
-
+Alteração no brunch master
 
 Fiz uma alteração dentro do ficheiro
