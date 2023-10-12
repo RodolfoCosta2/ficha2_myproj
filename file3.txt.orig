@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 Este é o exemplo de um ficheiro de texto file3
-
-=======
-Este é o exemplo de um ficheiro de texto file3OA
 
 <<<<<<< HEAD
 <h2>Bebidas</h2>
@@ -15,7 +11,6 @@ Este é o exemplo de um ficheiro de texto file3OA
 
 
 =======
->>>>>>> master
 
 <h1></h1>
 
@@ -26,9 +21,6 @@ Este é o exemplo de um ficheiro de texto file3OA
  <li>Tostas</li>
  <li>Sandes</li>
 </ul>
-<<<<<<< HEAD
-=======
 >>>>>>> NovaFeature
->>>>>>> master
 
 
